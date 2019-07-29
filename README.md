@@ -1,7 +1,7 @@
 # A Message to GitHub
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Français ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Français ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
@@ -114,7 +114,7 @@ You can:
 - Brennen Green from the United States ([brennegreen](https://github.com/brennengreen))
 - Conner Orth from Netherlands 🇳🇱
 - Chris C from Luxembourg 🇱🇺
-- Michele Riva from Italy 🇮🇹 ([micheleriva](https://github.com/micheleriva))
+- micheleriva from Italy 🇮🇹
 - Angel Uniminin from Iceland 🇮🇸
 - Fahim from Bangladesh 🇧🇩
 - divinity1437 from Russia 🇷🇺
@@ -625,7 +625,6 @@ You can:
 - Saulo Nunes from Brazil 🇧🇷 ([SauloNunes](https://github.com/SauloNunes))
 - Lucas Alencar from Brazil 🇧🇷 ([alencarlucas](https://github.com/alencarlucas))
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
-- Ragty from China 🇨🇳 ([Ragty](https://github.com/huoji555))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
 - Hao Wu from Japan 🇯🇵 ([wheatup](https://github.com/wheatup))
@@ -660,6 +659,7 @@ You can:
 - Samet Günaydın from Turkey 🇹🇷 ([rokumatsumoto](https://github.com/rokumatsumoto))
 - Mostafa Nazari from Iran 🇮🇷 ([rxdelta](https://github.com/rxdelta))
 - Martin Dünkelmann from Germany 🇩🇪 ([MartinX3](https://github.com/MartinX3))
+- Benjamin Balder Bach from Denmark 🇩🇰 ([benjaoming](https://github.com/benjaoming/))
 - lukmi15 from Germany 🇩🇪([lukmi15](https://github.com/lukmi15))
 - Ali Behrouzi from Iran 🇮🇷 ([alibh97](https://github.com/alibh97))
 - Li Chang Wei from China 🇨🇳 ([lichangwei](https://github.com/lichangwei))
